@@ -1,0 +1,7 @@
+E:\работа\Новая папка\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+E:\работа\Новая папка\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+E:\работа\Новая папка\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+E:\работа\Новая папка\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+E:\работа\Новая папка\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\работа\Новая папка\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+E:\работа\Новая папка\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
